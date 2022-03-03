@@ -1,0 +1,8 @@
+C:\Users\xpiot\source\repos\RVM\RVM\bin\Debug\RVM.exe.config
+C:\Users\xpiot\source\repos\RVM\RVM\bin\Debug\RVM.exe
+C:\Users\xpiot\source\repos\RVM\RVM\bin\Debug\RVM.pdb
+C:\Users\xpiot\source\repos\RVM\RVM\obj\Debug\RVM.csproj.AssemblyReference.cache
+C:\Users\xpiot\source\repos\RVM\RVM\obj\Debug\RVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\xpiot\source\repos\RVM\RVM\obj\Debug\RVM.csproj.CoreCompileInputs.cache
+C:\Users\xpiot\source\repos\RVM\RVM\obj\Debug\RVM.exe
+C:\Users\xpiot\source\repos\RVM\RVM\obj\Debug\RVM.pdb
