@@ -10,6 +10,7 @@ namespace RVM
     {
         static void Main(string[] args)
         {
+            RVM.INSTANCE.start();
         }
     }
 }
